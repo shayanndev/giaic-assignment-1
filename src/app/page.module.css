@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.navLinks {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.imageContainer {
+  margin-top: 30px;
+}
